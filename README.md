@@ -1,6 +1,6 @@
 # uni-workshop-repo
 My UTeM Workshop Repository
-1. Install Xampp
+1. Install Xampp from https://www.apachefriends.org/download.html
 2. Run Xampp-control
 3. Start Actions Apache and MySQL
 4. In browser, go to localhost/phpmyadmin
