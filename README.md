@@ -1,4 +1,4 @@
-# uniworkshoprepo
+# uni-workshop-repo
 My UTeM Workshop Repository
 1. Install Xampp
 2. Run Xampp-control
